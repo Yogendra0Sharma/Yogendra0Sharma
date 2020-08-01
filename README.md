@@ -1,4 +1,6 @@
-<div style="text-align-last: center;"><img src="./assets/wc1.png"></img></div>
+<div style="text-align-last: center;">
+<h1 align="center">
+<img src="./assets/wc1.png"></img></h1></div>
 <h1 align="center">Hi 👋, I'm Yogendra Sharma</h1>
 <h3 align="center">A passionate Polyglot developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendra0sharma" alt="yogendra0sharma" /> </p>
