@@ -1,6 +1,6 @@
 <div style="text-align-last: center;">
 <h1 align="center">
-<img src="./assets/wc1.png"></img></h1></div>
+<img src="https://github.com/Yogendra0Sharma/Yogendra0Sharma/blob/master/assets/wc1.png"></img></h1></div>
 <h1 align="center">Hi 👋, I'm Yogendra Sharma</h1>
 <h3 align="center">A passionate Polyglot developer from India </h3>
 
