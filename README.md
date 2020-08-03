@@ -1,7 +1,7 @@
 <div style="text-align-last: center;">
 <h1 align="center">
 <img src="./assets/wc1.png"></img></h1></div>
-<h1 align="center">Hi 👋, I'm Yogendra Sharma</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif"  width="32" height="32" />, I'm Yogendra Sharma <img src="https://emojis.slackmojis.com/emojis/images/1471045863/884/ninja.gif?1471045863" width="32" height="32" /></h1>
 <h3 align="center">A passionate Polyglot developer from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yogendra0sharma" alt="yogendra0sharma" /> </p>
