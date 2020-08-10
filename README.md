@@ -1,6 +1,3 @@
-<script data-name="BMC-Widget" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="yogendra0sharma" data-description="Support me on Buy me a coffee!" data-message="Thank you for visiting. You can now buy me a Beer!" data-color="#FF813F" data-position="" data-x_margin="18" data-y_margin="18"></script>
-
-
 <div style="text-align-last: center;">
 <h1 align="center">
 <img src="https://github.com/Yogendra0Sharma/Yogendra0Sharma/blob/master/assets/wc1.png"></img></h1></div>
