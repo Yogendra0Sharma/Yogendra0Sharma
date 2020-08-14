@@ -30,6 +30,11 @@
 <a href="https://linkedin.com/in/yogendra0sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yogendra0sharma" height="20" width="20" /></a>
 <a href="https://fb.com/eh.yogendra" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="eh.yogendra" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc-mibo2afqi6zsd2jlfphpg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uc-mibo2afqi6zsd2jlfphpg" height="20" width="20" /></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FYogendra0Sharma%2FYogendra0Sharma?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FYogendra0Sharma%2FYogendra0Sharma.svg?type=shield"/></a>
 </p>
 <br>
 <img src="https://camo.githubusercontent.com/a2f4a3a45e5ca8ea9ae5253e808c8d13c709cd54/687474703a2f2f72616e646f6a732e636f6d2f696d616765732f62617273536d616c6c2e676966" />
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FYogendra0Sharma%2FYogendra0Sharma.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FYogendra0Sharma%2FYogendra0Sharma?ref=badge_large)
